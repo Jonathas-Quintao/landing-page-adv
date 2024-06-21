@@ -203,7 +203,7 @@ menu {
   font-size: 2em;
   color: #fff;
   margin-top: 1em;
-  text-align: justify;
+  text-align: center;
 }
 .zap-img {
   width: 3em;
@@ -321,7 +321,7 @@ menu {
   font-size: 1.3em;
   color: #333;
   margin-top: 1em;
-  text-align: justify;
+  text-align: center;
   padding: 2em;
 }
 .maps {
@@ -428,7 +428,7 @@ footer p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-align: justify;
+    text-align: center;
   }
   .complemento {
     color: #cecbcb;
