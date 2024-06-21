@@ -108,7 +108,7 @@ menu {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  text-align: justify;
+  text-align: center;
 }
 .services {
   display: flex;
